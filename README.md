@@ -4,4 +4,4 @@ Finals HANDS-ON QUIZ #1: Simple Bank Account System
 
 Finals HANDS-ON QUIZ #2: Simple Vehicle Management System
 [Screenshot](Itelec304_Hands_On/image.png)
-[Code](Itelec304_Hands_On/Vehicle_Management_System/VehicleSystem/models.py)
+[Code](Itelec304_Hands_On/Vehicle_Management_System)
