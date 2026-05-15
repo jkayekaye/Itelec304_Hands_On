@@ -1,7 +1,4 @@
 Finals HANDS-ON QUIZ #1: Simple Bank Account System
-
-Create a Django banking system that manages account balances using deposit, withdraw, getter, and setter methods.
-
 [Screenshot](HO_Q1.png)
 [Code](BankAccount/models.py)
 
