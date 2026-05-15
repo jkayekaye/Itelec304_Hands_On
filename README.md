@@ -1,2 +1,3 @@
 HANDS-ON QUIZ #1: Simple Bank Account System
-[QUIZ 1](Itelec304_Hands_On/Borabo/Activity1.ipynb)
+[Screenshot](Itelec304_Hands_On/Borabo/image.png)
+[Code](Itelec304_Hands_On/Borabo/image.png)
